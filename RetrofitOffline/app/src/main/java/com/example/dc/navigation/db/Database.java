@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 public class Database extends SQLiteOpenHelper {
 
-	private static final String DATABASE_NAME = "turismo";
+	private static final String DATABASE_NAME = "db_icon";
 	private static final int DATABASE_VERSION = 1;
 
 	private static final String TABLE_NAME_ICON = "table_icon";
